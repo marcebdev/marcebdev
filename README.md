@@ -8,6 +8,7 @@ Appreciative wherever I can learn something new, I find my passion in problem so
 - 🔭 I’m currently peer programming to work on an Airbnb clone
 - 🌱 I’m currently learning Next & Prisma/GraphQL
 - 📫 Reach me via my [LinkedIn](https://www.linkedin.com/in/marcello-b/)
+- 🤔 Checkout my [portfolio site](https://www.marce.dev)
 - ⚡ Fun fact: Scuba diver since 8
 
 Currently focusing on learning new technologies & peer programming on some fun projects!
