@@ -1,5 +1,3 @@
-### Hi, I'm Marcello 👋
-
 <link href="https://use.fontawesome.com/releases/v5.14.0/css/fontawesome.css" rel="stylesheet">
 <link href="https://use.fontawesome.com/releases/v5.14.0/css/brands.css" rel="stylesheet">
 
@@ -9,7 +7,7 @@ Appreciative wherever I can learn something new, I find my passion in problem so
 
 - 🔭 I’m currently peer programming to work on an Airbnb clone
 - 🌱 I’m currently learning Next & Prisma/GraphQL
-- 📫 Reach me via my LinkedIn below
+- 📫 Reach me via my [LinkedIn](https://www.linkedin.com/in/marcello-b/)
 - ⚡ Fun fact: Scuba diver since 8
 
 Currently focusing on learning new technologies & peer programming on some fun projects!
