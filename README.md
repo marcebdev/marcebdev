@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi, I'm Marcello 👋
+
+<link href="https://use.fontawesome.com/releases/v5.14.0/css/fontawesome.css" rel="stylesheet">
+<link href="https://use.fontawesome.com/releases/v5.14.0/css/brands.css" rel="stylesheet">
+
+# Hi, I'm Marcello 👋
+
+Appreciative wherever I can learn something new, I find my passion in problem solving and web development in pursuit of a better world through simplicity, availability, and opportunity.
+
+- 🔭 I’m currently peer programming to work on an Airbnb clone
+- 🌱 I’m currently learning Next & Prisma/GraphQL
+- 📫 Reach me via my LinkedIn below
+- ⚡ Fun fact: Scuba diver since 8
+
+Currently focusing on learning new technologies & peer programming on some fun projects!
+
+<a href="https://www.linkedin.com/in/marcello-b/" target="_blank" rel="noopener noreferrer">
+  <i class="fab fa-linkedin fa-3x" style="color:#0072b1;"></i>
+</a>
 
 <!--
 **marcebdev/marcebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
