@@ -5,11 +5,11 @@
 
 Appreciative wherever I can learn something new, I find my passion in problem solving and web development in pursuit of a better world through simplicity, availability, and opportunity.
 
-- 🔭 I’m currently peer programming to work on an Airbnb clone!
-- 🌱 I’m currently learning Next & Prisma/GraphQL
+- 🔭 Currently peer programming to work on an Airbnb clone!
+- 🌱 Currently learning Next & Prisma/GraphQL
 - 📫 Reach me via my [LinkedIn](https://www.linkedin.com/in/marcello-b/)
 - 🤔 Checkout my [portfolio site](https://www.marce.dev)
-- ⚡ Fun fact: Scuba diver since 8
+- ⚡ Fun fact: Scuba diving since 8
 
 <a href="https://www.linkedin.com/in/marcello-b/" target="_blank" rel="noopener noreferrer">
   <i class="fab fa-linkedin fa-3x" style="color:#0072b1;"></i>
