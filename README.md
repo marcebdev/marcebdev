@@ -5,7 +5,7 @@
 
 Appreciative wherever I can learn something new, I find my passion in problem solving and web development in pursuit of a better world through simplicity, availability, and opportunity.
 
-- 🔭 Currently peer programming for a new prokect ;)
+- 🔭 Currently peer programming for a new project ;)
 - 🌱 Currently learning D3.js
 - 📫 Reach me via my [LinkedIn](https://www.linkedin.com/in/marcello-b/)
 - 🤔 Checkout my [portfolio site](https://www.marce.dev)
